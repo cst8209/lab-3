@@ -1,2 +1,4 @@
-# lab-3
-This repository contains the starter files for the Lab 3 assignment.
+# Lab 3
+
+## Objective
+In this lab, you will practice retrieving and manipulating HTML elements with JavaScript.
